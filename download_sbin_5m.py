@@ -1,5 +1,6 @@
 import yfinance as yf
 import pandas as pd
+from SmartApi import SmartConnect
 
 symbol = "SBIN.NS"
 interval = "5m"
